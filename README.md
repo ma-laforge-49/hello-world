@@ -7,10 +7,10 @@ Github test
 - Third list item
 
 
-  1. List Item
-    - SubItem 1
-    - SubItem 2
+1. List Item
+  - SubItem 1
+  - SubItem 2
     
-  2. List Item
-    - SubItem 1
-    - SubItem 2
+2. List Item
+  - SubItem 1
+  - SubItem 2
