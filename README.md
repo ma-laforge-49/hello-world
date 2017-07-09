@@ -17,3 +17,5 @@ Github test
 
 
 [Link to Wiki](https://github.com/ma-laforge/hello-world/wiki)
+
+![demo2](https://github.com/ma-laforge/FileRepo/blob/master/InspectDR/sampleplots/demo2.png)
