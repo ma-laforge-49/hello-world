@@ -22,3 +22,14 @@ Github test
 
 
 ![demo3](https://github.com/ma-laforge/hello-world/wiki/images/demo3.png)
+
+<div align=center>
+My text
+</div>
+
+
+<div align=center>
+<img src="https://github.com/ma-laforge/FileRepo/blob/master/InspectDR/sampleplots/demo11.png" width="425"> <img src="https://github.com/ma-laforge/FileRepo/blob/master/InspectDR/sampleplots/demo2.png" width="425">
+
+<img src="https://github.com/ma-laforge/FileRepo/blob/master/SignalProcessing/sampleplots/demo15.png" width="850">
+</div>
